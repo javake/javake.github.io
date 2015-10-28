@@ -1,6 +1,6 @@
 markdown:         rdiscount
 pygments:         true
-paginate:         5
+paginate:         4
 
 title:            Hello Javake
 url:              http://javake.github.io
@@ -15,6 +15,7 @@ follow:
     email:        javake@outlook.com
     github:       https://github.com/javake
     google:       https://plus.google.com/
+    facebook:	  http://www.facebook.com/
 description:      Hello github
 
 indexContent:     true
@@ -27,7 +28,7 @@ blogDesc:         Javake`s Blog
 favicon:          /favicon.ico
 theme:            default
 
-disqus:           
+disqus:           piznblog
 
 copyright:        Copyright © 2011-2012 Javake All rights reserved.
 test:             ok
