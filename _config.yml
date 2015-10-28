@@ -2,7 +2,7 @@ markdown:         rdiscount
 pygments:         true
 paginate:         5
 
-title:            Javake
+title:            Hello Javake
 url:              http://javake.github.io
 feed:             /atom.xml
 author:
@@ -22,7 +22,7 @@ imageLink:        http://www.pizn.net/static/images/20121109Monutain.jpg
 
 
 style:            /css/style.css
-blogName:         Hello Javake 
+blogName:         Javake 
 blogDesc:         Javake`s Blog
 favicon:          /favicon.ico
 theme:            default
