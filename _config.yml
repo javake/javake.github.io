@@ -1,0 +1,33 @@
+markdown:         rdiscount
+pygments:         true
+paginate:         5
+
+title:            Javake
+url:              http://javake.github.io
+feed:             /atom.xml
+author:
+    name:         Javake
+    email:        javake@outlook.com
+    description:  "a coder, a power man."
+
+about:            "I am Javake. I am a coder, i am expert in android, java ..."
+follow:
+    email:        javake@outlook.com
+    github:       https://github.com/javake
+    google:       https://plus.google.com/
+description:      Hello github
+
+indexContent:     true
+imageLink:        http://www.pizn.net/static/images/20121109Monutain.jpg
+
+
+style:            /css/style.css
+blogName:         Hello Javake 
+blogDesc:         Javake`s Blog
+favicon:          /favicon.ico
+theme:            default
+
+disqus:           
+
+copyright:        Copyright © 2011-2012 Javake All rights reserved.
+test:             ok
