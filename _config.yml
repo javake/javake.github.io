@@ -20,7 +20,7 @@ follow:
 description:      Hello github
 
 indexContent:     true
-imageLink:        http://www.baidu.com
+imageLink:        /images/juanshoutian.jpg
 
 
 style:            /css/style.css
