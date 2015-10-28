@@ -1,6 +1,6 @@
 markdown:         rdiscount
 pygments:         true
-paginate:         4
+paginate:         5
 
 title:            Hello Javake
 url:              http://javake.github.io
@@ -10,7 +10,7 @@ author:
     email:        javake@outlook.com
     description:  "a coder, a power man."
 
-about:            "I am Javake. I am a coder, i am expert in android, java ..."
+about:            "Hi, I am Javake. I am a coder, i am expert in android, java, recently i fund git is so cool ..."
 follow:
     email:        javake@outlook.com
     github:       https://github.com/javake
@@ -20,16 +20,16 @@ follow:
 description:      Hello github
 
 indexContent:     true
-imageLink:        /images/juanshoutian.jpg
+imageLink:        /images/pen.jpg
 
 
 style:            /css/style.css
 blogName:         Javake 
 blogDesc:         Javake`s Blog
 favicon:          /favicon.ico
-theme:            default
+theme:            blue
 
 disqus:           javake
 
-copyright:        Copyright © 2011-2012 Javake All rights reserved.
+copyright:        Copyright © 2014-2015 Javake All rights reserved.
 test:             ok
