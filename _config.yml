@@ -29,7 +29,7 @@ blogDesc:         Javake`s Blog
 favicon:          /favicon.ico
 theme:            default
 
-disqus:           piznblog
+disqus:           disqus_javake
 
 copyright:        Copyright © 2011-2012 Javake All rights reserved.
 test:             ok
