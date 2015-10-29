@@ -3,7 +3,7 @@ pygments:         true
 paginate:         5
 
 title:            Hello Javake
-url:              http://javake.github.io
+url:              http://www.javake.cc
 feed:             /atom.xml
 author:
     name:         Javake
@@ -17,7 +17,7 @@ follow:
     twitter:      http://www.twitter.com/
     google:       https://plus.google.com/
     facebook:	  http://www.facebook.com/
-description:      Hello github
+description:      Hello ^.^
 
 indexContent:     true
 imageLink:        /images/pen.jpg
@@ -31,4 +31,4 @@ theme:            default
 
 disqus:           javake
 
-copyright:        Copyright © 2014-2015 Javake All rights reserved.
+copyright:        Copyright © 2015 <a href="http://www.javake.cc">Javake</a> All rights reserved.
