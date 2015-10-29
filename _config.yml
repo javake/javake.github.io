@@ -27,7 +27,7 @@ style:            /css/style.css
 blogName:         Javake 
 blogDesc:         Javake`s Blog
 favicon:          /favicon.ico
-theme:            blue
+theme:            default
 
 disqus:           javake
 
