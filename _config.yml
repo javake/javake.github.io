@@ -32,4 +32,4 @@ theme:            default
 disqus:           javake
 
 copyright:        Copyright © 2014-2015 Javake All rights reserved.
-test:             ok
+baseurl:          /
