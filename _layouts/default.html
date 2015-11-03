@@ -33,7 +33,7 @@
     </header>
     <section id="contain">
         <header id="begin">
-            <span>{{ page.date | YYYY-MM-DD }}</span>
+            <span>{{ page.date | date_to_long_string }}</span>
         </header>
 		{{ content }}
         <footer id="foot">
