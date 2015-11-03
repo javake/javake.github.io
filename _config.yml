@@ -1,6 +1,7 @@
 markdown:         rdiscount
 pygments:         true
 paginate:         5
+timezone: Asia/Shanghai
 
 title:            Hello Javake
 url:              http://www.javake.cc
