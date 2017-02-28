@@ -4,7 +4,7 @@ paginate:         5
 timezone: Asia/Shanghai
 
 title:            Hello Javake
-url:              http://www.javake.cc
+url:              http://j.cmwei.top
 feed:             /atom.xml
 author:
     name:         Javake
@@ -32,4 +32,4 @@ theme:            default
 
 disqus:           javake
 
-copyright:        Copyright © 2015 <a href="http://www.javake.cc">Javake</a> All rights reserved.
+copyright:        Copyright © 2015 <a href="http://j.cmwei.top">Javake</a> All rights reserved.
